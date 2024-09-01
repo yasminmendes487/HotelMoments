@@ -16,10 +16,6 @@
   <img alt="imagem do projeto" src="/assets/preview.png" width="100%">
 </p>
 
-## Descrição
-
-O projeto **TravelMom&nts** é um site de reservas de hotéis criado para oferecer uma experiência de usuário agradável e eficiente. Ele inclui uma interface responsiva, lista de hotéis e pousadas em destaque, opções de promoções, e informações sobre diferenciais oferecidos pelos estabelecimentos.
-
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5**: Estrutura básica do site.
